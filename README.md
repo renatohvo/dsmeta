@@ -1,5 +1,8 @@
-# dsmeta >> <a href="https://rhvometa.netlify.app" target="_blank" rel="noopener noreferrer">rhvometa.netlify.app</a>
-<img src="https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png" alt="DevSuperior logo" style="max-width: 100%;"><h1>APP RHVOMeta - Semana Spring React - DevSuperior</h1>
+# dsmeta >> [rhvometa.netlify.app](https://rhvometa.netlify.app "https://rhvometa.netlify.app")
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/renatohvo/dsmeta/blob/master/LICENSE) 
+
+# ![Mobile 1](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) APP RHVOMeta - Semana Spring React - [DevSuperior](https://devsuperior.com.br "https://devsuperior.com.br/")
+
 <h2>
 <ul dir="auto">
 <li>API REST com Java e Spring Boot</li>
@@ -7,14 +10,14 @@
 <li>Front-end com ReactJS</li>
 <li>Camadas, componentes e boas práticas</li>
 <li>Integração com SMS</li>
-<li>Implantação na nuvem com CI/CD</li>
+<li>Implantação na nuvem da AWS & Netlify</li>
 </ul>
 </h2>
 <div display: inline-block>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" heigth="80" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" heigth="80" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" width="80" heigth="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="80" height="80" />
 </div>
 <div display: inline-block>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" heigth="80" />
