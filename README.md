@@ -1,5 +1,5 @@
 # dsmeta >> [rhvometa.netlify.app](https://rhvometa.netlify.app "https://rhvometa.netlify.app")
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/renatohvo/dsmeta/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/renatohvo/dsmeta/blob/main/LICENSE) 
 
 # ![Mobile 1](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) APP RHVOMeta - Semana Spring React - [DevSuperior](https://devsuperior.com.br "https://devsuperior.com.br/")
 
