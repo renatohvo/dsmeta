@@ -3,16 +3,22 @@
 
 # ![Mobile 1](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) APP RHVOMeta - Semana Spring React - [DevSuperior](https://devsuperior.com.br "https://devsuperior.com.br/")
 
-<h2>
-<ul dir="auto">
-<li>API REST com Java e Spring Boot</li>
-<li>Banco de Dados com ORM</li>
-<li>Front-end com ReactJS</li>
-<li>Camadas, componentes e boas práticas</li>
-<li>Integração com SMS</li>
-<li>Implantação na nuvem da AWS & Netlify</li>
-</ul>
-</h2>
+- API REST com Java e Spring Boot
+- Banco de Dados com ORM
+- Front-end com ReactJS
+- Camadas, componentes e boas práticas
+- Integração com SMS
+- Implantação na nuvem da AWS & Netlify
+
+# Layout
+![Figma](https://github.com/renatohvo/assets/raw/main/rhvometa/print-dsmeta.png)
+
+# Autor
+Renato Henrique Vasconcelos
+
+https://www.linkedin.com/in/renatohvo/
+
+# 
 <div display: inline-block>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" heigth="80" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" heigth="80" />
