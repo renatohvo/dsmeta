@@ -8,7 +8,7 @@
 - Front-end com ReactJS
 - Camadas, componentes e boas práticas
 - Integração com SMS
-- Implantação na nuvem da AWS & Netlify
+- Implantação na nuvem com CI/CD
 
 # Layout
 ![Figma](https://github.com/renatohvo/assets/raw/main/rhvometa/print-dsmeta.png)
@@ -22,8 +22,10 @@ https://www.linkedin.com/in/renatohvo/
 <div display: inline-block>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" heigth="80" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" heigth="80" />
+    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="JPA/Hibernate" width="80" heigth="80" />
+    <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/63a4a33b35b50d243716d03b95a955e49db97662/icons/file_type_maven.svg" alt="Maven" width="80" heigth="80" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80" heigth="80" />
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="80" height="80"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="80" height="80" />
 </div>
 <div display: inline-block>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" heigth="80" />
